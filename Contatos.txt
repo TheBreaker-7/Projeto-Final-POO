@@ -1,0 +1,4 @@
+max,Rua Sete de Setembro,08/02/1996,(55)3434-3535,(84)9 9657-9236,ADS,
+ana paula,Centro,30/01/1999,(55)3434-3535,(84)9 9905-3926,Química,
+Joao,Avenida Lopes,30/01/1995,(55)3434-3535,(26)3 3443-5634,Informática,
+Joao,Sitio Belo,30/01/1995,(88)8888-8888,(84)4 6671-1316,Alimentos,
