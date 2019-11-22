@@ -42,7 +42,7 @@ public class CadastroContato extends javax.swing.JFrame {
             JOptionPane.showMessageDialog(null, "Cadastro realizado com sucesso! ", "Cadastro", JOptionPane.INFORMATION_MESSAGE);
         }
         
-        
+        //Comentario Teste
     }
 
     /**
